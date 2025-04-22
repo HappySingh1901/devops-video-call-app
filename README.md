@@ -4,7 +4,7 @@ This section provides instructions to build and run the project using Docker.
 
 ## Prerequisites
 
-- Ensure Docker and Docker Compose are installed on your system.
+- Ensure Docker and Docker Compose are installed on your system
 - Docker version: Compatible with `maven:3.9.4-eclipse-temurin-21` and `eclipse-temurin:21-jre` images.
 
 ## Build and Run Instructions
